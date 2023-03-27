@@ -1,5 +1,7 @@
 <h1>Sign up</h1>
-<img width="1188" alt="signUp" src="https://user-images.githubusercontent.com/47697063/227963053-8587ebc7-9bb4-453a-96b1-511f527df50c.png">
+<img width="660" alt="SingUp" src="https://user-images.githubusercontent.com/47697063/227964306-b803d2ab-f2a5-42c9-9729-c0747238b0ba.png">
+
 
 <h1>Log in</h1>
-<img width="794" alt="Login" src="https://user-images.githubusercontent.com/47697063/227963229-eda3bb3b-dd21-4e03-9738-2a545407eeaf.png">
+<img width="660" alt="logIn" src="https://user-images.githubusercontent.com/47697063/227964383-eccdccf8-662b-4b04-a265-4db587e87aad.png">
+
